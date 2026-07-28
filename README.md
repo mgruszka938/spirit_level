@@ -18,3 +18,5 @@ The component selection prioritizes low power consumption, accuracy, and a small
 
 ![3D Render](images/board.png)
 
+![Back](images/back.png)
+
