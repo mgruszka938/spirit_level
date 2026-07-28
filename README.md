@@ -1,4 +1,4 @@
-# Digital spirit level with OLED display
+# Digital Spirit Level 
 
 A compact, battery-powered digital level built with an STM32 microcontroller and an OLED screen. This project was developed as part of the "Sensors in Embedded Applications" course at AGH University of Science and Technology.
 
@@ -14,9 +14,7 @@ The component selection prioritizes low power consumption, accuracy, and a small
 * **Display:** 0.96-inch OLED - A small, high-contrast I2C screen for the user interface.
 * **Connectivity:** USB-C (charging) and SWD (programming).
 
-**Layout**
 ![PCB Layout](images/pcb_layout.png)
 
-**Board**
 ![3D Render](images/board.png)
 
